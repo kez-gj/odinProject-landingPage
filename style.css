@@ -47,6 +47,11 @@ body {
     object-fit: fill;
 }
 
-.nav-links {
-    color: #F9FAF8;
+.nav-links, .nav-header {
+    color: #bda428;
+}
+
+.nav-header {
+    font-size: 24px;
+    font-family: "Baskervville SC", serif;
 }
