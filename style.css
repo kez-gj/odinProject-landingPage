@@ -35,9 +35,10 @@ body {
 
 .nav-bar {
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
     align-items: center;
     padding: 18px;
+    gap: 18px;
 }
 
 .logo {
@@ -54,4 +55,12 @@ body {
 .nav-header {
     font-size: 24px;
     font-family: "Baskervville SC", serif;
+    margin-right: auto;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
 }
