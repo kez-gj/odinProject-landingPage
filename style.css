@@ -66,3 +66,11 @@ body {
     gap: 10px;
     flex-wrap: wrap;
 }
+
+.intro {
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
