@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=LXGW+WenKai+Mono+TC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&family=LXGW+WenKai+Mono+TC&display=swap');
+
+.lxgw-wenkai-mono-tc-regular {
+    font-family: "LXGW WenKai Mono TC", monospace;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .baskervville-sc-regular {
+    font-family: "Baskervville SC", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+
+}
