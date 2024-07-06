@@ -74,3 +74,12 @@ body {
     align-items: center;
     padding: 50px;
 }
+
+.intro-img {
+    min-width: 300px;
+    height: auto;
+    border-radius: 3%;
+    flex: 0 1 auto;
+}
+
+/*finish styling intro*/
