@@ -111,4 +111,24 @@ h1 {
     flex: 1 1 auto;
 }
 
-/*finish styling intro*/
+.thumbnail1-container, .thumbnail2-container,
+.thumbnail3-container, .thumbnail4-container {
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+}
+
+.thumbnail1 {
+    width: 100%;
+    height: auto;
+    position: absolute;    
+    object-fit: cover;
+    top: calc(50% - 60%);
+}
+
+.thumbnail2, .thumbnail3, .thumbnail4 {
+    width: auto;
+    height: 100%;
+    object-fit: cover;
+}
