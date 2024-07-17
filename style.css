@@ -73,10 +73,12 @@ body {
     justify-content: center;
     align-items: center;
     padding: 50px;
+    flex-wrap: wrap;
 }
 
 .intro-img {
     min-width: 300px;
+    max-width: 450px;
     height: auto;
     border-radius: 3%;
     flex: 0 1 auto;
