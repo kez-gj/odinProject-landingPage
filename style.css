@@ -182,3 +182,22 @@ h1 {
 
 /* Section 3 Styling */
 
+.section3 {
+    background-color: #163b20;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    align-items: center;
+}
+
+.quote {
+    font-family: "LXGW WenKai Mono TC", monospace;
+    font-size: 20px;
+}
+
+.quote-credit {
+    font-weight: 900;
+    font-size: 14px;
+    align-self: flex-end;
+}
