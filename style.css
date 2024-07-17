@@ -117,11 +117,19 @@ h1 {
     flex-direction: column;
 }
 
+.header2 {
+    color: #163b20;
+}
+
 .container2 {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     gap: 40px;
+}
+
+.container2 p {
+    color: #163b20;
 }
 
 .thumbnail-container {
