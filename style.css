@@ -183,7 +183,7 @@ h1 {
 /* Section 3 Styling */
 
 .section3 {
-    background-color: #163b20;
+    background-color: #bda428;
     padding: 50px;
     display: flex;
     flex-direction: column;
@@ -200,4 +200,10 @@ h1 {
     font-weight: 900;
     font-size: 14px;
     align-self: flex-end;
+}
+
+/* Section 4 Styling */
+
+.section4 {
+    background-color: #F9FAF8;
 }
