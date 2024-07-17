@@ -69,11 +69,19 @@ body {
 
 .intro {
     display: flex;
-    gap: 25px;
+    gap: 40px;
     justify-content: center;
     align-items: center;
     padding: 50px;
     flex-wrap: wrap;
+}
+
+.container1 {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    align-items: flex-start;
 }
 
 .intro-img {
@@ -81,7 +89,7 @@ body {
     max-width: 450px;
     height: auto;
     border-radius: 3%;
-    flex: 0 1 auto;
+    flex: 1 1 auto;
 }
 
 /*finish styling intro*/
