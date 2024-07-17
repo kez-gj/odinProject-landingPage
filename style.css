@@ -111,8 +111,7 @@ h1 {
     flex: 1 1 auto;
 }
 
-.thumbnail1-container, .thumbnail2-container,
-.thumbnail3-container, .thumbnail4-container {
+.thumbnail-container {
     width: 200px;
     height: 200px;
     overflow: hidden;
