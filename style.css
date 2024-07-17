@@ -123,7 +123,8 @@ h1 {
 .header2 {
     color: #163b20;
     font-family: "LXGW WenKai Mono TC", monospace;
-    font-size: 34px;
+    font-size: 32px;
+    text-align: center;
 }
 
 .container2 {
@@ -178,3 +179,6 @@ h1 {
 .thumbnail4 {
     left: calc(50% - 85%);
 }
+
+/* Section 3 Styling */
+
