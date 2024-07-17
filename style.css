@@ -70,7 +70,7 @@ body {
 
 .intro {
     display: flex;
-    gap: 40px;
+    gap: 50px;
     justify-content: center;
     align-items: center;
     padding: 50px;
@@ -83,6 +83,7 @@ body {
     flex-direction: column;
     gap: 10px;
     align-items: flex-start;
+    max-width: 450px;
 }
 
 h1 {
