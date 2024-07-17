@@ -115,6 +115,9 @@ h1 {
 .section2 {
     display: flex;
     flex-direction: column;
+    align-items: center;
+    padding: 25px 50px;
+    gap: 40px;
 }
 
 .header2 {
@@ -130,6 +133,13 @@ h1 {
 
 .container2 p {
     color: #163b20;
+}
+
+.text-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
 }
 
 .thumbnail-container {
