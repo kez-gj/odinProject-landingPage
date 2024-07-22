@@ -260,5 +260,12 @@ h1 {
     cursor: pointer;
 }
 
-/* Finish footer and make final adjustments */
+/* Footer styling */
+
+.footer {
+    background-color: #a5933a;
+    padding: 22px;
+    font-size: 12px;
+    text-align: center;
+}
 
