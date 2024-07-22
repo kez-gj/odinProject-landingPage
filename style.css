@@ -216,12 +216,12 @@ h1 {
     display: flex;
     flex-wrap: wrap;
     background-color: #163b20;
-    padding: 30px 80px;
+    padding: 40px 100px;
     border-radius: 5px;
     justify-content: center;
     align-items: center;
-    gap: 120px;
-    max-width: 66%;
+    gap: 40px;
+    
 }
 
 .header4, .button4 {
